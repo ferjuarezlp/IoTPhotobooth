@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "942859456232",
+    "firebase_url": "https://photobooth-85971.firebaseio.com",
+    "project_id": "photobooth-85971",
+    "storage_bucket": "photobooth-85971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942859456232:android:39be4caf5c94d7f9",
+        "android_client_info": {
+          "package_name": "com.ferjuarez.photobooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942859456232-rkj1df5h8m3ucguln1nri52l29ft837m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd96BGx3IEFDeju2vjvIx0EDfNQmrkb04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
